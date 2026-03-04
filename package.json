@@ -1,0 +1,6 @@
+{                                                                                                                                                                                       
+  "name": "@jspm/overrides",                                                                                                                                                            
+  "version": "1.0.0",                                                                                                                                                                   
+  "exports": "./overrides.json",                                                                                                                                                        
+  "type": "module"                                                                                                                                                                      
+} 
