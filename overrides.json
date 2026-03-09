@@ -648,7 +648,8 @@
   "@vue/shared": {
     "3": {
       "exports": "./index.js"
-    }
+    },
+    "3.5": null
   },
   "elliptic": {
     "6": {
